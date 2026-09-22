@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://cheers-ton-disco-graphic.trycloudflare.com";
+window.VAULT_ORIGIN = "https://lol-gzip-mount-builders.trycloudflare.com";

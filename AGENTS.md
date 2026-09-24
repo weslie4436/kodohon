@@ -6,7 +6,7 @@
 
 | 層 | 說明 |
 |---|---|
-| **Pages 門面** | 靜態 HTML／JS／CSS，公開在 `https://theoldfathertw.github.io/kodohon/` |
+| **Pages 門面** | 靜態 HTML／JS／CSS，公開在 `https://weslie4436.github.io/kodohon/` |
 | **隧道 origin** | `config.js` 的 `window.VAULT_ORIGIN` 指向家裡保險庫；鑰匙與隧道網址不進 git |
 | **保險庫** | 本機 `python -m kodohon vault`（預設埠 8767）；音檔在 `F:\KoDoHoN\library` |
 

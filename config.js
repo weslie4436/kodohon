@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://lol-gzip-mount-builders.trycloudflare.com";
+window.VAULT_ORIGIN = "https://conclusions-satisfactory-seed-entities.trycloudflare.com";

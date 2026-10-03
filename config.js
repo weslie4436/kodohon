@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://conclusions-satisfactory-seed-entities.trycloudflare.com";
+window.VAULT_ORIGIN = "https://fired-arrived-dow-arbor.trycloudflare.com";

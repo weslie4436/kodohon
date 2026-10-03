@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://treasury-dollars-moisture-statement.trycloudflare.com";
+window.VAULT_ORIGIN = "https://veterinary-column-democratic-charges.trycloudflare.com";

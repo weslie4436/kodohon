@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://archived-annotated-dinner-talk.trycloudflare.com";
+window.VAULT_ORIGIN = "https://wrapping-distances-bracelets-notices.trycloudflare.com";

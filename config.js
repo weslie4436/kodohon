@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://view-donna-apply-peripherals.trycloudflare.com";
+window.VAULT_ORIGIN = "https://timely-fathers-years-debug.trycloudflare.com";

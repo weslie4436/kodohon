@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://timely-fathers-years-debug.trycloudflare.com";
+window.VAULT_ORIGIN = "https://superb-premises-partial-volumes.trycloudflare.com";

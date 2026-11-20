@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://superb-premises-partial-volumes.trycloudflare.com";
+window.VAULT_ORIGIN = "https://things-stamps-junction-entrance.trycloudflare.com";

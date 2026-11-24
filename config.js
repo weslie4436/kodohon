@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://bernard-entertaining-shaw-decide.trycloudflare.com";
+window.VAULT_ORIGIN = "https://gorgeous-priority-store-characterized.trycloudflare.com";

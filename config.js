@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://exchanges-legends-yrs-dock.trycloudflare.com";
+window.VAULT_ORIGIN = "https://web-gets-preferred-fundamentals.trycloudflare.com";

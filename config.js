@@ -1,1 +1,1 @@
-window.VAULT_ORIGIN = "https://essential-excess-modular-partnership.trycloudflare.com";
+window.VAULT_ORIGIN = "https://valentine-primarily-constructed-asp.trycloudflare.com";
